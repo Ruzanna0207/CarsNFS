@@ -1,7 +1,7 @@
 # CarsNFS
 ## Mobile app for Android
-![Screen](https://www.dropbox.com/s/ofv5yogfh19wqqe/1.png?raw=1)
-![Screen](https://www.dropbox.com/s/c16afmi0hskk4v5/2.png?raw=1)
+![Screen](https://www.dropbox.com/s/30moamlfgj1697p/nfs1.png?raw=1)
+![Screen](https://www.dropbox.com/s/vhs19csnc0erj8t/nfs2.png?raw=1)
 
 
 Cars NFS 'то репозиторий, содержащий приложение, которое отображает список автомобилей из игры NFS в виде списка при помощи RecyclerView и вложенного RecyclerView отображающего марки автомобиля горизонтальным списком. Приложение позволяет прокручивать список автомобилей, нажимая на горизонтальный RecyclerView, чтобы перейти к нужному автомобилю. 
